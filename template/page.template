@@ -11,8 +11,6 @@
 
 		    @input(template/footer.content)
 		</div>
-
-        <script src='@pathtofile(site/js/process_pre_tags.js)'></script>
     </body>
 </html>
 
